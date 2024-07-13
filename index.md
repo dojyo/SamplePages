@@ -1,5 +1,9 @@
 $a+b=z$
 
+$$
+M=1
+$$
+
 hello.2 
 ![img](./ti.png)
 
