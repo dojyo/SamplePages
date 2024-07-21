@@ -1,4 +1,4 @@
-# SamplePages
+# Blog
 
 be
 
